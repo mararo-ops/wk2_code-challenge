@@ -50,4 +50,4 @@ This project was developed by Dniel Mararo. Contributions are welcome, whether i
 This project is licensed under the MIT license
 ## Contact
 
-If you have any questions or feedback about this project, feel free to contact Daniel Mararo at [danielmararo1@gmail.com](mailto:danielmararo1@gmail.com). You can also find me on GitHub at [github.com/mararo-ops](https://github.com/mararo-ops).
+If you have any questions or feedback about this project, feel free to contact Daniel Mararo at [danielmararo1@gmail.com](mailto:danielmararo1@gmail.com). You can also find me on GitHub at [github.com/mararo-ops](https://github.com/mararo-ops)..

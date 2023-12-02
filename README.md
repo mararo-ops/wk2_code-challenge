@@ -1,6 +1,6 @@
 # Restaurant Review Management System
 
-**Author:** Dniel Mararo
+**Author:** Daniel Mararo
 
 Welcome to the Restaurant Review Management System! This Python project is designed to manage customers, restaurants, and their associated reviews. You can use this system to create, modify, and query various aspects of restaurants and reviews.
 

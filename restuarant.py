@@ -31,3 +31,10 @@ class Restuarant():
     def avg_restuarant_rating(self):
         avg_rating=sum(review.rating() for review in self.reviews) / len(self.reviews)
         return avg_rating
+
+
+restuarant1=Restuarant("Frangos")
+restuarant2=Restuarant("The Curve")
+
+print (restuarant1.name)
+print (restuarant2.name)

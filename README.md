@@ -44,7 +44,7 @@ Remember to update the code in `main.py` to test various methods and functionali
 
 ## Contributions
 
-This project was developed by Dniel Mararo. Contributions are welcome, whether it's in the form of suggestions, bug reports, or code improvements.
+This project was developed by Daniel Mararo. Contributions are welcome, whether it's in the form of suggestions, bug reports, or code improvements.
 
 ## License
 This project is licensed under the MIT license

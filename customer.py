@@ -41,7 +41,7 @@ class Customer:
        return [customer for customer in cls.customers if customer.given_name() == name]
 
 #testing 
-customer1 = Customer("Dniel", "Mararo")
+customer1 = Customer("Daniel", "Mararo")
 customer2 = Customer("Grace", "Gichuru")
 
 print(customer1.full_name())  

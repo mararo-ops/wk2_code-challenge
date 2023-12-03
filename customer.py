@@ -31,5 +31,14 @@ class Customer:
     def num_reviews(self): # return the total number of reviews by checking the length
         return len(self.reviews)
 
-   
+    @classmethod #decorator for class method
+    def find_by_name(cls,name):
+        for customer in cls.customers: #looping through the list of customers 
+            if customer.full_name() == name:
+              return customer
+    
+    def find_all_by_given_name(cls,name): #returning a list of customers if the given name matches the name
+       return [customer for customer in cls.customers if customer.given_name() == name]
+
+
     

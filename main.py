@@ -21,3 +21,12 @@ restuarant2=Restuarant("The Curve")
 
 print (restuarant1.name)
 print (restuarant2.name)
+
+
+
+#output for reviews
+review1=Review(customer1,restuarant1,6) #instance creation
+print(review1.rating) #printing the rating
+print(Review.review_all()) #printing all the review instances 
+print(review1.customer().full_name())  # retrieving details from the customer class
+print(review1.restuarant().name) 

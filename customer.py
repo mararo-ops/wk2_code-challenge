@@ -40,5 +40,13 @@ class Customer:
     def find_all_by_given_name(cls,name): #returning a list of customers if the given name matches the name
        return [customer for customer in cls.customers if customer.given_name() == name]
 
+#testing 
+customer1 = Customer("Judy", "sigilai")
+customer2 = Customer("Brian", "Kip")
 
+print(customer1.full_name())  
+print(customer2.full_name())
+print(customer2.given_name())
+print(customer2.family_name())
+print(Customer.all()) #its a class method
     
